@@ -19,10 +19,10 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-7">
-                <div class="card shadow">
+                <div class="card shadow animate__animated animate__fadeInUp">
                     <div class="card-body">
                         <form action="" method="post">
-
+                            
                         </form>
                     </div>
                 </div>
